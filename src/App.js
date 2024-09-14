@@ -17,8 +17,8 @@ function Avatar() {
     <div>
       <img
         className="w-full"
-        src="/Pic/drew-beamer-Vc1pJfvoQvY-unsplash.jpg"
-        alt="lol"
+        src={`${process.env.PUBLIC_URL}/Pic/drew-beamer-Vc1pJfvoQvY-unsplash.jpg`}
+        alt="description"
       />
     </div>
   );
