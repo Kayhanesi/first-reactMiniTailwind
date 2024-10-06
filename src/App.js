@@ -42,7 +42,7 @@ function Intro() {
 function SkillList() {
   return (
     <div className="flex flex-wrap justify-start gap-2 mt-4 pb-9 ml-1 sm:ml-8">
-      <Skill name="HTML + CSS" emojy="💪" bgColor="bg-blue-500" />
+      <Skill name="HTMLl + CsSS" emojy="💪" bgColor="bg-blue-500" />
       <Skill name="JavaScript" emojy="💪" bgColor="bg-yellow-500" />
       <Skill name="Web Design" emojy="💪" bgColor="bg-green-300" />
       <Skill name="Git and Github" emojy="👍" bgColor="bg-red-300" />
